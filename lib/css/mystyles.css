@@ -1,0 +1,44 @@
+.logo_box{
+	padding-top: 18px;
+	padding-left: 23px;
+}
+
+.logo_header{
+	height: 85px;
+}
+
+.navbar-default{
+	background-color: transparent;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: #449fad;
+    color: #ffffff;
+}
+
+.navbar-default .navbar-nav > li > a:active, .navbar-default .navbar-nav > li > a:focus {
+    background-color: #449fad;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{
+	background-color: #449fad;
+	color: white;
+}
+
+.nav>li>a {
+	padding: 10px 18px;
+	height: 56px;
+	font-size: 15px;
+}
+
+.navbar-nav>li>a {
+	line-height: 39px;
+}
+
+.main_content{
+  margin-bottom: 15px;
+  color: #383838;
+  font: 12px/1.5 'Open Sans', Arial;
+  line-height: 1.15;
+  font-size: 16px;
+}
