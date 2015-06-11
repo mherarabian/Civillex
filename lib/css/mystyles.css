@@ -27,18 +27,60 @@
 
 .nav>li>a {
 	padding: 10px 18px;
-	height: 56px;
+	height: 51px; /*Originally 56*/
 	font-size: 15px;
 }
 
 .navbar-nav>li>a {
-	line-height: 39px;
+	line-height: 34px; /*Originally 39*/
 }
 
+/*Welcome Content*/
 .main_content{
   margin-bottom: 15px;
   color: #383838;
-  font: 12px/1.5 'Open Sans', Arial;
+  font-family: 'Open Sans', sans-serif;
   line-height: 1.15;
   font-size: 16px;
 }
+
+/*Welcome Content Header*/
+.main_content_header{
+	font-family: 'Open Sans', sans-serif;
+}
+
+#home_services{
+	padding-right: 70px
+}
+.carousel
+{ 
+  top: -10px; 
+  width: 100%; 
+  margin: 0px auto; 
+}
+
+.carousel-control.left, .carousel-control.right {
+    background-image: none;
+}
+
+#main_hr{
+	height: 40px;
+}
+
+#footer {
+  background-color: #373737;
+  padding: 35px 0 40px;
+  color: #969696;
+  
+}
+
+#footer_text{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+}
+
+.service_text{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+}
+
