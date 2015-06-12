@@ -27,12 +27,12 @@
 
 .nav>li>a {
 	padding: 10px 18px;
-	height: 51px; /*Originally 56*/
+	height: 48px; /*Originally 56*/
 	font-size: 15px;
 }
 
 .navbar-nav>li>a {
-	line-height: 34px; /*Originally 39*/
+	line-height: 31px; /*Originally 39*/
 }
 
 /*Welcome Content*/
@@ -83,4 +83,3 @@
 	font-family: 'Open Sans', sans-serif;
 	font-size: 13px;
 }
-
