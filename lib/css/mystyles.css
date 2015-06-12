@@ -38,7 +38,7 @@
 /*Welcome Content*/
 .main_content{
   margin-bottom: 15px;
-  color: #383838;
+  color: #777;
   font-family: 'Open Sans', sans-serif;
   line-height: 1.15;
   font-size: 16px;
@@ -47,6 +47,7 @@
 /*Welcome Content Header*/
 .main_content_header{
 	font-family: 'Open Sans', sans-serif;
+	color: #686868;
 }
 
 #home_services{
@@ -82,4 +83,9 @@
 .service_text{
 	font-family: 'Open Sans', sans-serif;
 	font-size: 13px;
+	color: #777;
+}
+
+.service_text_header{
+	color: #686868;
 }
