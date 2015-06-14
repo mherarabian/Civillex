@@ -7,6 +7,10 @@
 	height: 85px;
 }
 
+#lang_row{
+	padding-top: 18px;
+}
+
 .navbar-default{
 	background-color: transparent;
 }
@@ -45,19 +49,21 @@
 }
 
 /*Welcome Content Header*/
-.main_content_header{
+.content_header{
 	font-family: 'Open Sans', sans-serif;
 	color: #686868;
 }
 
-#home_services{
-	padding-right: 70px
-}
 .carousel
 { 
   top: -10px; 
   width: 100%; 
   margin: 0px auto; 
+}
+
+.carousel img
+{ 
+  margin: 0 auto;
 }
 
 .carousel-control.left, .carousel-control.right {
