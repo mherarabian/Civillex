@@ -74,16 +74,23 @@
 	height: 40px;
 }
 
-#footer {
+#footer_arm {
   background-color: #373737;
-  padding: 35px 0 40px;
+  margin-top: 0px;
+  padding: 7px 0 26px;
   color: #969696;
-  
+}
+
+#footer_about_eng{
+  background-color: #373737;
+  margin-top: 170px;
+  padding: 7px 0 26px;
+  color: #969696;
 }
 
 #footer_text{
 	font-family: 'Open Sans', sans-serif;
-	font-size: 12px;
+	font-size: 13px;
 }
 
 .service_text{
