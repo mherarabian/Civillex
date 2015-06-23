@@ -73,12 +73,25 @@
 #main_hr{
 	height: 40px;
 }
-
+/*
 #footer_arm {
   background-color: #373737;
   margin-top: 0px;
   padding: 7px 0 26px;
   color: #969696;
+}
+*/
+#footer_arm{
+  position: relative;
+  background-color: #414141;;+
+  padding: 0px;
+  color: #999;
+  margin-top: -62px;
+  height: 62px;
+  padding-top: 21px;
+  padding-bottom: 20px;
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
 }
 
 #footer_about_eng{
@@ -90,7 +103,7 @@
 
 #footer_text{
 	font-family: 'Open Sans', sans-serif;
-	font-size: 13px;
+	font-size: 14px;
 }
 
 .service_text{
@@ -101,4 +114,16 @@
 
 .service_text_header{
 	color: #686868;
+}
+
+html, body {
+	height: 100%;
+}
+
+.main{
+	padding-bottom: 62px;
+	clear: both;
+}
+a:focus,a:visited, a:hover, a:active {
+	text-decoration: none;
 }
